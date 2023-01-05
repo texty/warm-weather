@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.94a78a10.css",
+    "main.js": "./static/js/main.bf5b04be.js",
+    "static/media/weather_kyiv.csv": "./static/media/weather_kyiv.3796ec2609fa68a788fd.csv",
+    "static/media/Dutch TTF Natural Gas Futures Historical Data.csv": "./static/media/Dutch TTF Natural Gas Futures Historical Data.f1d7cde1fffa8a8cdd39.csv",
+    "static/media/weather.csv": "./static/media/weather.d2eb0cba00621f7dc43c.csv",
+    "static/media/gas_import.tsv": "./static/media/gas_import.d68b17ce693d994db66d.tsv",
+    "index.html": "./index.html",
+    "main.94a78a10.css.map": "./static/css/main.94a78a10.css.map",
+    "main.bf5b04be.js.map": "./static/js/main.bf5b04be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a78a10.css",
+    "static/js/main.bf5b04be.js"
+  ]
+}
